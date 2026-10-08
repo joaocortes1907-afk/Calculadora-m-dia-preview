@@ -26,3 +26,4 @@ if (mediaFinal <6){
     alert ("O aluno "+ aluno.nomeAluno +" está aprovado")
 }
 
+alert ("Obrigado por utilizar nosso sistema de notas")
